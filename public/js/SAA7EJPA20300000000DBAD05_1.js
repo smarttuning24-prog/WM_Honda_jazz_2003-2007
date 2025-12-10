@@ -1,3 +1,5 @@
+(function() {
+(() => {
 with(document) {
 write("<v:group id=\"group19\" class=\"drag\" style=\"position:relative; width:950px; height:751px;\" coordsize=\"950,751\">");
 write("<v:rect id=\"rect19\"class=\"drag\"  style=\"width:950px;height:751px;\">");
@@ -41,3 +43,5 @@ write("</p>");
 write("</v:rect>");
 write("</v:group>");
 }
+})();
+})();

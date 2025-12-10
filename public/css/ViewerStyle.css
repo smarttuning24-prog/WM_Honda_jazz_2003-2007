@@ -1,3 +1,6 @@
+:root {
+  /* CSS variables could be defined here */
+}
 BODY{
   font-size       : 80%;
   background-color: white;
@@ -10,7 +13,7 @@ font-size:10pt;
 }
 
 /*---------------------------*/
-/* メインボディー             */
+/* C{fB[             */
 /*---------------------------*/
 .MainBody {
   font-size       : 80%;
@@ -46,7 +49,7 @@ font-size:10pt;
 vertical-align:top;
 }
 
-/* サブタイトル */
+/* Tu^Cg */
 TABLE.SubTitle {
   border          : 0 outset;
   border-width    : 0px;
@@ -89,7 +92,7 @@ TD.SubTitle-R {
 }
 
 /*---------------------------*/
-/* 表テーブル部分             */
+/* \e[u             */
 /*---------------------------*/
 .TableLayout {
   margin-left    : 20px; 
@@ -100,12 +103,12 @@ TD.SubTitle-R {
 .TableLayout td {
 	  vertical-align: top;
 }
-/* 表テーブルのタイトル */
+/* \e[uﾌタCg */
 .TableTite {
   color           : #FFFFFF;
   background-color: #FF00FF;
 }
-/* 表テーブルの表題 */
+/* \e[uﾌ表 */
 .TableColumnTitle {
   color           : #FFFFFF;
   text-align      : left;
@@ -115,7 +118,7 @@ TD.SubTitle-R {
 }
 
 
-/* 表テーブルのデータ部 */
+/* \e[uﾌデ[^ */
 .TableData {
   color           : #000000;
   background-color: #FFFFFF;
@@ -126,7 +129,7 @@ TD.SubTitle-R {
 
 
 /********************************************************/
-/*****                 タイトル定義                 *****/
+/*****                 ^Cg`                 *****/
 /********************************************************/
 .top_title{
 font-size:12pt;
@@ -271,7 +274,7 @@ padding-left:5px;
 font-family:'Arial';
 }
 /********************************************************/
-/*****               タグスタイル定義               *****/
+/*****               ^OX^C`               *****/
 /********************************************************/
 
 .list1{
@@ -551,3 +554,10 @@ border-right-style:solid;
 padding-right:10px;
 padding-left:10px;
 }
+
+/* @media (max-width: 768px) { 
+  /* Responsive styles for smaller screens */ 
+} */
+/* @media (min-width: 769px) and (max-width: 1200px) { 
+  /* Responsive styles for medium screens */ 
+} */
